@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ujian Dasar</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="mail">Email</string>
+    <string name="nama">Full Name</string>
+    <string name="alamat">Address</string>
+    <string name="akun">Create Account</string>
+    <string name="login">Login</string>
+    <string name="sapa_user">Welcome, </string>
+    <string name="your_name">Your Name : </string>
+    <string name="your_email">Your Email : </string>
+    <string name="your_address">Your Address : </string>
+</resources>

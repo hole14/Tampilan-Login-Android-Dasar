@@ -67,23 +67,20 @@
                 android:padding="15dp"
                 android:text="@string/your_name"
                 android:textColor="@color/black"
-                android:textSize="20sp" />
+                android:textSize="18sp" />
 
         </TableRow>
-
                 <TableRow
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="15dp"
                     android:background="@color/button">
-
                     <TextView
                         android:id="@+id/email"
                         android:text="@string/your_email"
-                        android:textSize="20sp"
+                        android:textSize="18sp"
                         android:textColor="@color/black"
                         android:padding="15dp"/>
-
                 </TableRow>
 
                 <TableRow
@@ -95,12 +92,10 @@
                     <TextView
                         android:id="@+id/alamat"
                         android:text="@string/your_address"
-                        android:textSize="20sp"
+                        android:textSize="18sp"
                         android:textColor="@color/black"
                         android:padding="15dp"/>
 
                 </TableRow>
-
     </TableLayout>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
